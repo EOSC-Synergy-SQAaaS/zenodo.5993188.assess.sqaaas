@@ -1,5 +1,5 @@
 services:
-  qc.fair_fuzzy-cinnabar-gopher:
+  qc.fair_skinny-apricot-mammoth:
     build:
       context: ./github.com/EOSC-synergy/sqaaas-tooling/QC.FAIR
       dockerfile: Dockerfile
