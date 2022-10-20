@@ -1,5 +1,5 @@
 services:
-  qc.fair_stealthy-green-cheetah:
+  qc.fair_lanky-amaranth-russel:
     build:
       context: ./github.com/EOSC-synergy/sqaaas-tooling/QC.FAIR
       dockerfile: Dockerfile
