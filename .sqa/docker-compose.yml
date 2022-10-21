@@ -1,5 +1,5 @@
 services:
-  qc.fair_shabby-grey-seal:
+  qc.fair_sickly-white-hare:
     build:
       context: ./github.com/EOSC-synergy/sqaaas-tooling/QC.FAIR
       dockerfile: Dockerfile
