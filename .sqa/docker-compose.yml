@@ -1,5 +1,5 @@
 services:
-  qc.fair_sickly-white-hare:
+  qc.fair_jumpy-ochre-pinscher:
     build:
       context: ./github.com/EOSC-synergy/sqaaas-tooling/QC.FAIR
       dockerfile: Dockerfile
